@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yksweuk
-- 🇬🇧 Female Software Engineer in London
+- 🇬🇧 Software Engineer in London
 - 💻 Full stack development
 - 💕 Yogi, Felinophile
 
